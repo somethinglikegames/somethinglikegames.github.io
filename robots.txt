@@ -1,7 +1,3 @@
 User-agent: *
-Disallow: /de/tags/
-Disallow: /en/tags/
-Disallow: /de/categories/
-Disallow: /en/categories/
 
 Sitemap: https://www.somethinglikegames.de/sitemap.xml
